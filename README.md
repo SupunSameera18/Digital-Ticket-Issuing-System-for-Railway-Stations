@@ -1,2 +1,5 @@
 # Digital-Ticket-Issuing-System-for-Railway-Stations
 Java based GUI application for railway station ticket counter. Swing framework is used to create the UI of the application and MySQL is used in back-end.
+Prevailing manual ticket issuing system is converted into a computerized system. Thus, officer in the ticket counter can issue a ticket in few clicks. If any existing passenger comes again, officer can load his previous data from database and speed-up the ticketing process.
+Reports can be generated easily in different ways. Admin can filter the tickets issued using ticket number or customer NIC, can see the time table for selected trains and he can find money collections according to a given date.
+Also, using this system admin can easily update the ticket prices. Admin does not require any programming-based knowledge. Everything can be done using graphical user interface and this interface is efficiently communicates with back end of the software without showing any complexity to the user.
